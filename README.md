@@ -1,1 +1,2 @@
 # hadoop-svmParaOpt
+利用Hadoop平台实现支持向量机核函数参数和惩罚参数的网格搜索寻优，使用libsvm预测分类，得到最优正确率的参数对。
